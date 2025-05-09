@@ -10,6 +10,8 @@ In this lab, you'll learn the basics of confidence intervals by generating sampl
 
 Open the `main.ipynb` file in the `your-code` directory. Follow the instructions and complete each challenge.
 
+You can use Latex for your answers just putting the formula between `$` and pasting the code done with [this link](http://editor.digital/latex6)
+
 ## Deliverables
 
 `main.ipynb` with your responses to each of the exercises.
